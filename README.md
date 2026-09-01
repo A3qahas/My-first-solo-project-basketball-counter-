@@ -7,5 +7,5 @@ I started my journey to learn Fullstack development with Scrimba, and this is my
 * +2 Points 
 * +3 Points 
 ### To both home and guest teams
-
-# There are also **New game** button to restart the match!
+# Game control:
+There are also **New game** button to restart the match!
